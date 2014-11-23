@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.license = "MIT"
   s.add_development_dependency "rake"
   s.add_development_dependency "coveralls"
-  s.add_runtime_dependency "minitest", ">= 4.7.5", '<= 5.4.0'
+  s.add_runtime_dependency "minitest", ">= 4.7.5", '<= 5.4.3'
 end
